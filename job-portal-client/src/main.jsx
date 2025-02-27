@@ -13,7 +13,7 @@ createRoot(document.getElementById("root")).render(
         domain="dev-oegz3g6pqp8fms76.us.auth0.com"
         clientId="SR2zNoiOdIov6x0S7AvWIeU9x5TL5Eh0"
         authorizationParams={{
-          redirect_uri: "http://localhost:5173/",
+          redirect_uri: "https://job-portal-client-peach-seven.vercel.app/",
         }}
         audience="http://localhost:3000"
         scope="openid profile email"
